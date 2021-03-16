@@ -1,1 +1,1 @@
-# CMSC433
+# There are several examples for java concurrency.
