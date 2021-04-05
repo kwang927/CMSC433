@@ -1,0 +1,7 @@
+sleep 20
+read-request-b Printer_0
+write-request-b Printer_0
+sleep 150
+read-release Printer_0
+enable Scanner_0
+disable Scanner_0

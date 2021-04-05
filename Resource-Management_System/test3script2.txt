@@ -1,0 +1,4 @@
+write-request-n Scanner_0
+sleep 500
+write-release Scanner_0
+sleep 200
